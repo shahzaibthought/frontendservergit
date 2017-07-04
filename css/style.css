@@ -1,0 +1,6 @@
+table tbody td , table tfoot td{
+	text-align: center;
+}
+.shop_name{
+	font-weight: bold;
+}
